@@ -1,0 +1,42 @@
+<goods>
+    <good>
+        <id>1</id>
+        <title>milk</title>
+        <expirationDate>2017.08.30</expirationDate>
+        <vendor>RB</vendor>
+        <weight unit="gramm">1000</weight>
+        <cost currency="RB">1.2</cost>
+    </good>
+    <good>
+        <id>2</id>
+        <title>bread</title>
+        <expirationDate>2017.08.20</expirationDate>
+        <vendor>RB</vendor>
+        <weight unit="gramm">500</weight>
+        <cost currency="RB">0.8</cost>
+    </good>
+    <good>
+        <id>3</id>
+        <title>cheese</title>
+        <expirationDate>2017.09.10</expirationDate>
+        <vendor>Holland</vendor>
+        <weight unit="gramm">200</weight>
+        <cost currency="RB">6.3</cost>
+    </good>
+    <good>
+        <id>4</id>
+        <title>chocolate</title>
+        <expirationDate>2018.06.15</expirationDate>
+        <vendor>Austria</vendor>
+        <weight unit="gramm">100</weight>
+        <cost currency="RB">7.8</cost>
+    </good>
+    <good>
+        <id>5</id>
+        <title>tomato</title>
+        <expirationDate>2017.08.28</expirationDate>
+        <vendor>RB</vendor>
+        <weight unit="gramm">1000</weight>
+        <cost currency="RB">1.8</cost>
+    </good>
+</goods>
